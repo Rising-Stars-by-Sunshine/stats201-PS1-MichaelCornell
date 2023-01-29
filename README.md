@@ -1,7 +1,7 @@
 # Michael Cornell's Project Portfolio
 
 ## Problem Set 1 - Collab Notebook:
-[Collab Notebook](https://colab.research.google.com/drive/1UMjh1YQ5M-0-ItNjALH8jQE2FmG7qo74?usp=sharing)\
+[Collab Notebook](https://colab.research.google.com/drive/1UMjh1YQ5M-0-ItNjALH8jQE2FmG7qo74?usp=sharing)
 
 [Jupyter Notebook](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell/blob/main/Spring2023_Problem_Set_1_MichaelCornell_Ethereum_Blockchain_API.ipynb)
 
