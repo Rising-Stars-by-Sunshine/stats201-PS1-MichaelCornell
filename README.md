@@ -1,4 +1,8 @@
 # Michael Cornell's Project Portfolio
+
+## Problem Set 1 - Collab Notebook:
+[Collab Notebook](https://colab.research.google.com/drive/1UMjh1YQ5M-0-ItNjALH8jQE2FmG7qo74?usp=sharing)x
+
 ## Project information
 - **Author**: Michael Cornell, Computation and Design - Computer Science Track, 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
