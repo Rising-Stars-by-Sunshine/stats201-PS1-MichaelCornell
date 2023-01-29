@@ -1,4 +1,4 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Michael Cornell's Project Portfolio
 ## Project information
 - **Author**: Michael Cornell, Computation and Design - Computer Science Track, 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
