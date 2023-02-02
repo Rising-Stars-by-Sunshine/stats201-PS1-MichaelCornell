@@ -9,20 +9,16 @@
 - **Author**: Michael Cornell, Computation and Design - Computer Science Track, 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: 
+  - Prof. Luyao Zhang
+
 - **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+  Information on the blockchain comes from a variety of nodes. How can we query information to get a better understanding of how the blockchain works and do some basic analysis on the data we recieve? First, multiple full nodes are queried for ethereum data. Secondly, specific fungible and non fungible tokens are chosen for further analysis. Finally, results are drawn about these tokens. The results show that the ethereum network is diverse and full of many creative uses of the blockchain. These projects give a platform for others to draw inspiration on what the ethereum blockchain can do.
 
 ## Table of Contents
-- data
-- code
-- spotlight
+- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell#data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell#spotlight)
 
 
 
@@ -30,7 +26,7 @@
 - Data Source:
 - Queried Data
 - Processed Data
-- ...
+-
 
 
 ## Code
@@ -56,20 +52,26 @@
 ### Articles
 - Article Source Title and URL
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+Hayes, Conor F., Roxana Rădulescu, Eugenio Bargiacchi, Johan Källström, Matthew Macfarlane, Mathieu Reymond, Timothy Verstraeten, et al. ‘A Practical Guide to Multi-Objective Reinforcement Learning and Planning’. Autonomous Agents and Multi-Agent Systems 36, no. 1 (13 April 2022): 26. https://doi.org/10.1007/s10458-022-09552-y.
 
 ```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+@ARTICLE{Hayes2022-ko,
+  title    = "A practical guide to multi-objective reinforcement learning and
+              planning",
+  author   = "Hayes, Conor F and R{\u a}dulescu, Roxana and Bargiacchi, Eugenio
+              and K{\"a}llstr{\"o}m, Johan and Macfarlane, Matthew and Reymond,
+              Mathieu and Verstraeten, Timothy and Zintgraf, Luisa M and
+              Dazeley, Richard and Heintz, Fredrik and Howley, Enda and
+              Irissappane, Athirai A and Mannion, Patrick and Now{\'e}, Ann and
+              Ramos, Gabriel and Restelli, Marcello and Vamplew, Peter and
+              Roijers, Diederik M",
+  journal  = "Autonomous Agents and Multi-Agent Systems",
+  volume   =  36,
+  number   =  1,
+  pages    = "26",
+  month    =  apr,
+  year     =  2022
 }
 ```
 
