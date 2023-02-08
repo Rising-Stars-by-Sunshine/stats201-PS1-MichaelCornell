@@ -23,10 +23,14 @@
 
 
 ## Data
-- Data Source: Various papers on reinforcment learning
-- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell/blob/main/data/Queried_Data/data.csv)
-- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell/tree/main/data/Processed_Data)
+<div class="table-wrapper" markdown="block">
 
+|                    |                                                    **Data Links**                                                              |                       **Data Description**                                      |
+|--------------------|:------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
+| **Queried Data**   | [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell/blob/main/data/Queried_Data/data.csv)   | Abstracts and titles from various papers on reinforcment learning               |
+| **Processed Data** | [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell/tree/main/data/Processed_Data)        | Data has been processed using network analysis and natural language processing. |
+
+</div>
 
 ## Code
 - Availible [here](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-MichaelCornell/tree/main/code/NLP_Blockchain_SoKs.ipynb)
